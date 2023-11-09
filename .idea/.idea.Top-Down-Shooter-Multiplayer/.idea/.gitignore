@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Top-Down-Shooter-Multiplayer.iml
+# Datasource local storage ignored files
+/../../../../../../:\Github\Top-Down-Shooter-Multiplayer\.idea\.idea.Top-Down-Shooter-Multiplayer\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

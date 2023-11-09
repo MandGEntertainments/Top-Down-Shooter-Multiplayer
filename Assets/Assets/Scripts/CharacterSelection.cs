@@ -342,7 +342,7 @@ public class CharacterSelection : MonoBehaviour
 
     public void SelectButton()
     {
-        if(valueHolder== 16 || valueHolder == 20)
+        /*if(valueHolder== 16 || valueHolder == 20)
         {
             Debug.Log("Characters Are Locked. ");
             lockedStateText.text = "Locked.";
@@ -354,7 +354,11 @@ public class CharacterSelection : MonoBehaviour
             lockedStateText.color = Color.green;
             GameManager.instance.selectedChar = (int)valueHolder;
             SceneManager.LoadScene("FirstScene");
-        }
+        }*/
+        lockedStateText.text = "Unlocked.";
+        lockedStateText.color = Color.green;
+        GameManager.instance.selectedChar = (int)valueHolder;
+        SceneManager.LoadScene("FirstScene");
         
     }
     public void OnBackPressed()

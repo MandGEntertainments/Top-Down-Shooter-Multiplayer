@@ -1,0 +1,5 @@
+# ninja log v5
+209	373	7200193365362477	D:/Github/Top-Down-Shooter-Multiplayer/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/m4c3q6a4/obj/armeabi-v7a/libswappywrapper.so	29c8a01b1fdf8930
+1	208	7200193364270707	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	818f9edd70156b35
+10	228	7201079898717687	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	818f9edd70156b35
+228	458	7201079900367702	D:/Github/Top-Down-Shooter-Multiplayer/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/m4c3q6a4/obj/armeabi-v7a/libswappywrapper.so	29c8a01b1fdf8930

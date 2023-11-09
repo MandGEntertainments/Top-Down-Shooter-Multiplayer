@@ -5,16 +5,23 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Assets/Scenes/FirstScene.unity
     guid: 113c4e4b8822c0448b5addcc4a5a4375
-  - enabled: 1
+  - enabled: 0
     path: Assets/Assets/Scenes/ChooseCharacter.unity
     guid: c00fbcfff56202940a10ee9e66acafa4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Assets/Scenes/Level1.unity
     guid: 43e74217aaa1daf4ba0becac5b494d3e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Assets/Scenes/Lobby.unity
     guid: ddde29807280cee47a9de4be5a48a20f
+  - enabled: 0
+    path: Assets/PolygonNature/Scenes/DemoScene_01.unity
+    guid: d5673b812d5fa6d4abc53777e9b3fa6b
+  - enabled: 1
+    path: Assets/PolygonNature/Scenes/DemoScene_Classic_Trees.unity
+    guid: 8866da7caad60954a93a5a2f437a384b
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
